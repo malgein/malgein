@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wilmer Pocaterra</h1>
 <h3 align="center">A passionate Full-Stack developer from Venezuela</h3>
 
+<img src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif' alt='me programing' aling="center">
+
 - 🔭 I’m currently working on [My Dogs App](https://github.com/malgein/Proyecto-Individual-Dogs)
 
 - 🌱 I’m currently learning **Data science, Python**

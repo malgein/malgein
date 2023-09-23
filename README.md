@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Data science, Python**
 
-- Checkout some of my certicates [SCRUM metodologies](https://drive.google.com/file/d/1Q8GceYMMQyleSBbHUBRxAyA4G9hTolft/view?usp=drive_link)
+- Checkout some of my certicate [Full-Stack Web Development](https://certificates.soyhenry.com/new-cert?id=3ded50a572e51654d71a9ae6170b1fa6103f44c6f9b7dde02bcdb50b71c3f3b9)
 
 - Checkout some of my certicates [Frontend Projects](https://drive.google.com/file/d/1cSISK3pmcUEm9j54h-DCgExE7xhcc_io/view?usp=drive_link)
 
